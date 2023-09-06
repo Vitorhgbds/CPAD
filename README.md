@@ -1,22 +1,39 @@
-# CPAD
-Web Scraper de Informações de Países
-	Este é um script Python que extrai informações sobre países de uma página web local e as armazena em um DataFrame. O script utiliza as bibliotecas urllib, BeautifulSoup e pandas.
+# Webscrapping study
 
-Pré-requisitos
-	Certifique-se de que você tenha as seguintes bibliotecas instaladas antes de executar o código:
-	urllib (para fazer solicitações HTTP).
-	BeautifulSoup (para analisar o HTML da página web).
-	pandas (para criar e manipular o DataFrame).
+Group members: 
+- Leonardo Ripes Moura da Rosa
+- Marcelo 
+- Vitor Hugo Garcez
 
-Uso:
-	Executar o servidor
-	
-Requisitos para executar o servidor:
-	 Python 2.X (sugiro utilizar a 2.7)
-	 Biblioteca pillow ($ python2 -m pip install Pillow)
+This study was carried out for a work at the university in the discipline of data collection, preparation and analysis.
 
-Instruções de uso do servidor:
-	  Descompactar a pasta web2py
-	  Executar o script web2py.py usando python 2.X, ao fazer isso uma interface gráfica será aberta e vai permitir que você coloque 	uma senha e comece a usar a aplicação web. Se você estiver usando as opções padrão, o endereço no qual você vai acessar o site é http://127.0.0.1:8000/places/
+We have two jupyter notebooks, the first is a study in a controlled environment and the second is a study in a real environment.
 
-	Sempre que iniciar o servidor coloque uma senha para o usuário admin, do contrário não será possível acessar a interface de configuração.
+## How to run
+
+Install the requirements to make sure that you can run the ipynb code.
+
+```bash
+pip install requirements.txt
+```
+
+### Crawler_control_env
+
+To run this notebook first you need to run a local server so you can test there.
+
+
+1. make sure that you have a python environment manager like conda
+1. open terminal
+1. unzip `server_e_aplicacao_para_scraping.zip`
+2. run ```cd server_e_aplicacao_para_scraping```
+2. using another python environment with python2
+1. run `python -m pip install Pillow`
+3. run `python .\web2py.py`
+4. The GUI will open and allow you to enter a password and start using the web application. If you are using the default options, the address where you will access the site is http://127.0.0.1:8000/places/
+
+> Whenever you start the server, put a password for the admin user, otherwise it will not be possible to access the configuration interface.
+
+Now with the local website up you can run the `crawler_control_env.ipynb` notebook using another environment with python3 and the requirements.
+
+## Crawler_real_env
+To run this notebook you only need a python3 environment with the `requirements.txt` installed.
