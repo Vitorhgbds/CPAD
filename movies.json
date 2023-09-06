@@ -1,0 +1,3631 @@
+{
+  "title": "1. The Shawshank Redemption",
+  "year": "1994",
+  "rating": "9.3",
+  "movie_page_link": "https://www.imdb.com/title/tt0111161/?ref_=chttp_t_1",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Drama"
+  ],
+  "popularity": "56",
+  "directors": [
+    "Frank Darabont"
+  ]
+}{
+  "title": "2. The Godfather",
+  "year": "1972",
+  "rating": "9.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0068646/?ref_=chttp_t_2",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+  "genders": [
+    "Crime",
+    "Drama"
+  ],
+  "popularity": "55",
+  "directors": [
+    "Francis Ford Coppola"
+  ]
+}{
+  "title": "3. The Dark Knight",
+  "year": "2008",
+  "rating": "9.0",
+  "movie_page_link": "https://www.imdb.com/title/tt0468569/?ref_=chttp_t_3",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "popularity": "67",
+  "directors": [
+    "Christopher Nolan"
+  ]
+}{
+  "title": "4. The Godfather Part II",
+  "year": "1974",
+  "rating": "9.0",
+  "movie_page_link": "https://www.imdb.com/title/tt0071562/?ref_=chttp_t_4",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+  "genders": [
+    "Crime",
+    "Drama"
+  ],
+  "popularity": "313",
+  "directors": [
+    "Francis Ford Coppola"
+  ]
+}{
+  "title": "5. 12 Angry Men",
+  "year": "1957",
+  "rating": "9.0",
+  "movie_page_link": "https://www.imdb.com/title/tt0050083/?ref_=chttp_t_5",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX140_CR0,4,140,207_.jpg",
+  "genders": [
+    "Crime",
+    "Drama"
+  ],
+  "popularity": "300",
+  "directors": [
+    "Sidney Lumet"
+  ]
+}{
+  "title": "6. Schindler's List",
+  "year": "1993",
+  "rating": "9.0",
+  "movie_page_link": "https://www.imdb.com/title/tt0108052/?ref_=chttp_t_6",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "popularity": "184",
+  "directors": [
+    "Steven Spielberg"
+  ]
+}{
+  "title": "7. The Lord of the Rings: The Return of the King",
+  "year": "2003",
+  "rating": "9.0",
+  "movie_page_link": "https://www.imdb.com/title/tt0167260/?ref_=chttp_t_7",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "popularity": "277",
+  "directors": [
+    "Peter Jackson"
+  ]
+}{
+  "title": "8. Pulp Fiction",
+  "year": "1994",
+  "rating": "8.9",
+  "movie_page_link": "https://www.imdb.com/title/tt0110912/?ref_=chttp_t_8",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+  "genders": [
+    "Crime",
+    "Drama"
+  ],
+  "popularity": "94",
+  "directors": [
+    "Quentin Tarantino"
+  ]
+}{
+  "title": "9. The Lord of the Rings: The Fellowship of the Ring",
+  "year": "2001",
+  "rating": "8.8",
+  "movie_page_link": "https://www.imdb.com/title/tt0120737/?ref_=chttp_t_9",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "popularity": "128",
+  "directors": [
+    "Peter Jackson"
+  ]
+}{
+  "title": "10. The Good, the Bad and the Ugly",
+  "year": "1966",
+  "rating": "8.8",
+  "movie_page_link": "https://www.imdb.com/title/tt0060196/?ref_=chttp_t_10",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNjJlYmNkZGItM2NhYy00MjlmLTk5NmQtNjg1NmM2ODU4OTMwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Adventure",
+    "Western"
+  ],
+  "popularity": "517",
+  "directors": [
+    "Sergio Leone"
+  ]
+}{
+  "title": "11. Forrest Gump",
+  "year": "1994",
+  "rating": "8.8",
+  "movie_page_link": "https://www.imdb.com/title/tt0109830/?ref_=chttp_t_11",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Romance"
+  ],
+  "popularity": "170",
+  "directors": [
+    "Robert Zemeckis"
+  ]
+}{
+  "title": "12. Fight Club",
+  "year": "1999",
+  "rating": "8.8",
+  "movie_page_link": "https://www.imdb.com/title/tt0137523/?ref_=chttp_t_12",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BODQ0OWJiMzktYjNlYi00MzcwLThlZWMtMzRkYTY4ZDgxNzgxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Drama"
+  ],
+  "popularity": "126",
+  "directors": [
+    "David Fincher"
+  ]
+}{
+  "title": "13. The Lord of the Rings: The Two Towers",
+  "year": "2002",
+  "rating": "8.8",
+  "movie_page_link": "https://www.imdb.com/title/tt0167261/?ref_=chttp_t_13",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,5,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "popularity": "555",
+  "directors": [
+    "Peter Jackson"
+  ]
+}{
+  "title": "14. Inception",
+  "year": "2010",
+  "rating": "8.8",
+  "movie_page_link": "https://www.imdb.com/title/tt1375666/?ref_=chttp_t_14",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "popularity": "78",
+  "directors": [
+    "Christopher Nolan"
+  ]
+}{
+  "title": "15. Star Wars: Episode V - The Empire Strikes Back",
+  "year": "1980",
+  "rating": "8.7",
+  "movie_page_link": "https://www.imdb.com/title/tt0080684/?ref_=chttp_t_15",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,5,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "popularity": "639",
+  "directors": [
+    "Irvin Kershner"
+  ]
+}{
+  "title": "16. The Matrix",
+  "year": "1999",
+  "rating": "8.7",
+  "movie_page_link": "https://www.imdb.com/title/tt0133093/?ref_=chttp_t_16",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "popularity": "227",
+  "directors": [
+    "Lana WachowskiLilly Wachowski"
+  ]
+}{
+  "title": "17. Goodfellas",
+  "year": "1990",
+  "rating": "8.7",
+  "movie_page_link": "https://www.imdb.com/title/tt0099685/?ref_=chttp_t_17",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "popularity": "142",
+  "directors": [
+    "Martin Scorsese"
+  ]
+}{
+  "title": "18. One Flew Over the Cuckoo's Nest",
+  "year": "1975",
+  "rating": "8.7",
+  "movie_page_link": "https://www.imdb.com/title/tt0073486/?ref_=chttp_t_18",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Drama"
+  ],
+  "popularity": "305",
+  "directors": [
+    "Milos Forman"
+  ]
+}{
+  "title": "19. Spider-Man: Across the Spider-Verse",
+  "year": "2023",
+  "rating": "8.8",
+  "movie_page_link": "https://www.imdb.com/title/tt9362722/?ref_=chttp_t_19",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMzI0NmVkMjEtYmY4MS00ZDMxLTlkZmEtMzU4MDQxYTMzMjU2XkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "popularity": "25",
+  "directors": [
+    "Joaquim Dos SantosKemp PowersJustin K. Thompson"
+  ]
+}{
+  "title": "20. Se7en",
+  "year": "1995",
+  "rating": "8.6",
+  "movie_page_link": "https://www.imdb.com/title/tt0114369/?ref_=chttp_t_20",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,6,140,207_.jpg",
+  "genders": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "popularity": "157",
+  "directors": [
+    "David Fincher"
+  ]
+}{
+  "title": "21. It's a Wonderful Life",
+  "year": "1946",
+  "rating": "8.6",
+  "movie_page_link": "https://www.imdb.com/title/tt0038650/?ref_=chttp_t_21",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Family",
+    "Fantasy"
+  ],
+  "popularity": "1,570",
+  "directors": [
+    "Frank Capra"
+  ]
+}{
+  "title": "22. Seven Samurai",
+  "year": "1954",
+  "rating": "8.6",
+  "movie_page_link": "https://www.imdb.com/title/tt0047478/?ref_=chttp_t_22",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNWQ3OTM4ZGItMWEwZi00MjI5LWI3YzgtNTYwNWRkNmIzMGI5XkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Drama"
+  ],
+  "popularity": "1,475",
+  "directors": [
+    "Akira Kurosawa"
+  ]
+}{
+  "title": "23. The Silence of the Lambs",
+  "year": "1991",
+  "rating": "8.6",
+  "movie_page_link": "https://www.imdb.com/title/tt0102926/?ref_=chttp_t_23",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+  "genders": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "popularity": "213",
+  "directors": [
+    "Jonathan Demme"
+  ]
+}{
+  "title": "24. Interstellar",
+  "year": "2014",
+  "rating": "8.7",
+  "movie_page_link": "https://www.imdb.com/title/tt0816692/?ref_=chttp_t_24",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Adventure",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "popularity": "42",
+  "directors": [
+    "Christopher Nolan"
+  ]
+}{
+  "title": "25. Saving Private Ryan",
+  "year": "1998",
+  "rating": "8.6",
+  "movie_page_link": "https://www.imdb.com/title/tt0120815/?ref_=chttp_t_25",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "War"
+  ],
+  "popularity": "351",
+  "directors": [
+    "Steven Spielberg"
+  ]
+}{
+  "title": "26. City of God",
+  "year": "2002",
+  "rating": "8.6",
+  "movie_page_link": "https://www.imdb.com/title/tt0317248/?ref_=chttp_t_26",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BOTMwYjc5ZmItYTFjZC00ZGQ3LTlkNTMtMjZiNTZlMWQzNzI5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Crime",
+    "Drama"
+  ],
+  "popularity": "535",
+  "directors": [
+    "Fernando MeirellesKátia Lund"
+  ]
+}{
+  "title": "27. Life Is Beautiful",
+  "year": "1997",
+  "rating": "8.6",
+  "movie_page_link": "https://www.imdb.com/title/tt0118799/?ref_=chttp_t_27",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "popularity": "721",
+  "directors": [
+    "Roberto Benigni"
+  ]
+}{
+  "title": "28. The Green Mile",
+  "year": "1999",
+  "rating": "8.6",
+  "movie_page_link": "https://www.imdb.com/title/tt0120689/?ref_=chttp_t_28",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Crime",
+    "Drama",
+    "Fantasy"
+  ],
+  "popularity": "292",
+  "directors": [
+    "Frank Darabont"
+  ]
+}{
+  "title": "29. Star Wars: Episode IV - A New Hope",
+  "year": "1977",
+  "rating": "8.6",
+  "movie_page_link": "https://www.imdb.com/title/tt0076759/?ref_=chttp_t_29",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BOTA5NjhiOTAtZWM0ZC00MWNhLThiMzEtZDFkOTk2OTU1ZDJkXkEyXkFqcGdeQXVyMTA4NDI1NTQx._V1_QL75_UX140_CR0,3,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "popularity": "266",
+  "directors": [
+    "George Lucas"
+  ]
+}{
+  "title": "30. Terminator 2: Judgment Day",
+  "year": "1991",
+  "rating": "8.6",
+  "movie_page_link": "https://www.imdb.com/title/tt0103064/?ref_=chttp_t_30",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "popularity": "299",
+  "directors": [
+    "James Cameron"
+  ]
+}{
+  "title": "31. Back to the Future",
+  "year": "1985",
+  "rating": "8.5",
+  "movie_page_link": "https://www.imdb.com/title/tt0088763/?ref_=chttp_t_31",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX140_CR0,5,140,207_.jpg",
+  "genders": [
+    "Adventure",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "popularity": "242",
+  "directors": [
+    "Robert Zemeckis"
+  ]
+}{
+  "title": "32. Spirited Away",
+  "year": "2001",
+  "rating": "8.6",
+  "movie_page_link": "https://www.imdb.com/title/tt0245429/?ref_=chttp_t_32",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Animation",
+    "Adventure",
+    "Family"
+  ],
+  "popularity": "481",
+  "directors": [
+    "Hayao Miyazaki"
+  ]
+}{
+  "title": "33. The Pianist",
+  "year": "2002",
+  "rating": "8.5",
+  "movie_page_link": "https://www.imdb.com/title/tt0253474/?ref_=chttp_t_33",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UY207_CR5,0,140,207_.jpg",
+  "genders": [
+    "Biography",
+    "Drama",
+    "Music"
+  ],
+  "popularity": "428",
+  "directors": [
+    "Roman Polanski"
+  ]
+}{
+  "title": "34. Psycho",
+  "year": "1960",
+  "rating": "8.5",
+  "movie_page_link": "https://www.imdb.com/title/tt0054215/?ref_=chttp_t_34",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "popularity": "623",
+  "directors": [
+    "Alfred Hitchcock"
+  ]
+}{
+  "title": "35. Parasite",
+  "year": "2019",
+  "rating": "8.5",
+  "movie_page_link": "https://www.imdb.com/title/tt6751668/?ref_=chttp_t_35",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Thriller"
+  ],
+  "popularity": "185",
+  "directors": [
+    "Bong Joon Ho"
+  ]
+}{
+  "title": "36. Gladiator",
+  "year": "2000",
+  "rating": "8.5",
+  "movie_page_link": "https://www.imdb.com/title/tt0172495/?ref_=chttp_t_36",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "popularity": "99",
+  "directors": [
+    "Ridley Scott"
+  ]
+}{
+  "title": "37. The Lion King",
+  "year": "1994",
+  "rating": "8.5",
+  "movie_page_link": "https://www.imdb.com/title/tt0110357/?ref_=chttp_t_37",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Animation",
+    "Adventure",
+    "Drama"
+  ],
+  "popularity": "439",
+  "directors": [
+    "Roger AllersRob Minkoff"
+  ]
+}{
+  "title": "38. Léon: The Professional",
+  "year": "1994",
+  "rating": "8.5",
+  "movie_page_link": "https://www.imdb.com/title/tt0110413/?ref_=chttp_t_38",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BOTgyMWQ0ZWUtN2Q2MS00NmY0LWI3OWMtNjFkMzZlNDZjNTk0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "popularity": "237",
+  "directors": [
+    "Luc Besson"
+  ]
+}{
+  "title": "39. Oppenheimer",
+  "year": "2023",
+  "rating": "8.6",
+  "movie_page_link": "https://www.imdb.com/title/tt15398776/?ref_=chttp_t_39",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMDBmYTZjNjUtN2M1MS00MTQ2LTk2ODgtNzc2M2QyZGE5NTVjXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "popularity": "2",
+  "directors": [
+    "Christopher Nolan"
+  ]
+}{
+  "title": "40. American History X",
+  "year": "1998",
+  "rating": "8.5",
+  "movie_page_link": "https://www.imdb.com/title/tt0120586/?ref_=chttp_t_40",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BZTJhN2FkYWEtMGI0My00YWM4LWI2MjAtM2UwNjY4MTI2ZTQyXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Crime",
+    "Drama"
+  ],
+  "popularity": "457",
+  "directors": [
+    "Tony Kaye"
+  ]
+}{
+  "title": "41. The Departed",
+  "year": "2006",
+  "rating": "8.5",
+  "movie_page_link": "https://www.imdb.com/title/tt0407887/?ref_=chttp_t_41",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_QL75_UY207_CR0,0,140,207_.jpg",
+  "genders": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "popularity": "173",
+  "directors": [
+    "Martin Scorsese"
+  ]
+}{
+  "title": "42. Whiplash",
+  "year": "2014",
+  "rating": "8.5",
+  "movie_page_link": "https://www.imdb.com/title/tt2582802/?ref_=chttp_t_42",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Music"
+  ],
+  "popularity": "211",
+  "directors": [
+    "Damien Chazelle"
+  ]
+}{
+  "title": "43. The Prestige",
+  "year": "2006",
+  "rating": "8.5",
+  "movie_page_link": "https://www.imdb.com/title/tt0482571/?ref_=chttp_t_43",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "popularity": "115",
+  "directors": [
+    "Christopher Nolan"
+  ]
+}{
+  "title": "44. The Usual Suspects",
+  "year": "1995",
+  "rating": "8.5",
+  "movie_page_link": "https://www.imdb.com/title/tt0114814/?ref_=chttp_t_44",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "popularity": "384",
+  "directors": [
+    "Bryan Singer"
+  ]
+}{
+  "title": "45. Grave of the Fireflies",
+  "year": "1988",
+  "rating": "8.5",
+  "movie_page_link": "https://www.imdb.com/title/tt0095327/?ref_=chttp_t_45",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Animation",
+    "Drama",
+    "War"
+  ],
+  "popularity": "1,117",
+  "directors": [
+    "Isao Takahata"
+  ]
+}{
+  "title": "46. Casablanca",
+  "year": "1942",
+  "rating": "8.5",
+  "movie_page_link": "https://www.imdb.com/title/tt0034583/?ref_=chttp_t_46",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Romance",
+    "War"
+  ],
+  "popularity": "617",
+  "directors": [
+    "Michael Curtiz"
+  ]
+}{
+  "title": "47. Harakiri",
+  "year": "1962",
+  "rating": "8.6",
+  "movie_page_link": "https://www.imdb.com/title/tt0056058/?ref_=chttp_t_47",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BYjBmYTQ1NjItZWU5MS00YjI0LTg2OTYtYmFkN2JkMmNiNWVkXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_QL75_UY207_CR6,0,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Drama",
+    "Mystery"
+  ],
+  "popularity": "2,836",
+  "directors": [
+    "Masaki Kobayashi"
+  ]
+}{
+  "title": "48. The Intouchables",
+  "year": "2011",
+  "rating": "8.5",
+  "movie_page_link": "https://www.imdb.com/title/tt1675434/?ref_=chttp_t_48",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Biography",
+    "Comedy",
+    "Drama"
+  ],
+  "popularity": "821",
+  "directors": [
+    "Olivier NakacheÉric Toledano"
+  ]
+}{
+  "title": "49. Modern Times",
+  "year": "1936",
+  "rating": "8.5",
+  "movie_page_link": "https://www.imdb.com/title/tt0027977/?ref_=chttp_t_49",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BYjJiZjMzYzktNjU0NS00OTkxLWEwYzItYzdhYWJjN2QzMTRlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,5,140,207_.jpg",
+  "genders": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "popularity": null,
+  "directors": [
+    "Charles Chaplin"
+  ]
+}{
+  "title": "50. Cinema Paradiso",
+  "year": "1988",
+  "rating": "8.5",
+  "movie_page_link": "https://www.imdb.com/title/tt0095765/?ref_=chttp_t_50",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Romance"
+  ],
+  "popularity": "1,397",
+  "directors": [
+    "Giuseppe Tornatore"
+  ]
+}{
+  "title": "51. Once Upon a Time in the West",
+  "year": "1968",
+  "rating": "8.5",
+  "movie_page_link": "https://www.imdb.com/title/tt0064116/?ref_=chttp_t_51",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BODQ3NDExOGYtMzI3Mi00NWRlLTkwNjAtNjc4MDgzZGJiZTA1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Western"
+  ],
+  "popularity": "913",
+  "directors": [
+    "Sergio Leone"
+  ]
+}{
+  "title": "52. Rear Window",
+  "year": "1954",
+  "rating": "8.5",
+  "movie_page_link": "https://www.imdb.com/title/tt0047396/?ref_=chttp_t_52",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+  "genders": [
+    "Mystery",
+    "Thriller"
+  ],
+  "popularity": "1,246",
+  "directors": [
+    "Alfred Hitchcock"
+  ]
+}{
+  "title": "53. Alien",
+  "year": "1979",
+  "rating": "8.5",
+  "movie_page_link": "https://www.imdb.com/title/tt0078748/?ref_=chttp_t_53",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BOGQzZTBjMjQtOTVmMS00NGE5LWEyYmMtOGQ1ZGZjNmRkYjFhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+  "genders": [
+    "Horror",
+    "Sci-Fi"
+  ],
+  "popularity": "156",
+  "directors": [
+    "Ridley Scott"
+  ]
+}{
+  "title": "54. City Lights",
+  "year": "1931",
+  "rating": "8.5",
+  "movie_page_link": "https://www.imdb.com/title/tt0021749/?ref_=chttp_t_54",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "popularity": null,
+  "directors": [
+    "Charles Chaplin"
+  ]
+}{
+  "title": "55. Apocalypse Now",
+  "year": "1979",
+  "rating": "8.4",
+  "movie_page_link": "https://www.imdb.com/title/tt0078788/?ref_=chttp_t_55",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BYmQyNTA1ZGItNjZjMi00NzFlLWEzMWEtNWMwN2Q2MjJhYzEyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,4,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Mystery",
+    "War"
+  ],
+  "popularity": "344",
+  "directors": [
+    "Francis Ford Coppola"
+  ]
+}{
+  "title": "56. Memento",
+  "year": "2000",
+  "rating": "8.4",
+  "movie_page_link": "https://www.imdb.com/title/tt0209144/?ref_=chttp_t_56",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+  "genders": [
+    "Mystery",
+    "Thriller"
+  ],
+  "popularity": "228",
+  "directors": [
+    "Christopher Nolan"
+  ]
+}{
+  "title": "57. Django Unchained",
+  "year": "2012",
+  "rating": "8.5",
+  "movie_page_link": "https://www.imdb.com/title/tt1853728/?ref_=chttp_t_57",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Western"
+  ],
+  "popularity": "194",
+  "directors": [
+    "Quentin Tarantino"
+  ]
+}{
+  "title": "58. Indiana Jones and the Raiders of the Lost Ark",
+  "year": "1981",
+  "rating": "8.4",
+  "movie_page_link": "https://www.imdb.com/title/tt0082971/?ref_=chttp_t_58",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNTU2ODkyY2MtMjU1NC00NjE1LWEzYjgtMWQ3MzRhMTE0NDc0XkEyXkFqcGdeQXVyMjM4MzQ4OTQ@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Adventure"
+  ],
+  "popularity": "118",
+  "directors": [
+    "Steven Spielberg"
+  ]
+}{
+  "title": "59. WALL·E",
+  "year": "2008",
+  "rating": "8.4",
+  "movie_page_link": "https://www.imdb.com/title/tt0910970/?ref_=chttp_t_59",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Animation",
+    "Adventure",
+    "Family"
+  ],
+  "popularity": "1,027",
+  "directors": [
+    "Andrew Stanton"
+  ]
+}{
+  "title": "60. The Lives of Others",
+  "year": "2006",
+  "rating": "8.4",
+  "movie_page_link": "https://www.imdb.com/title/tt0405094/?ref_=chttp_t_60",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNmQyNmJjM2ItNTQzYi00ZjMxLWFjMDYtZjUyN2YwZDk5YWQ2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "popularity": "1,159",
+  "directors": [
+    "Florian Henckel von Donnersmarck"
+  ]
+}{
+  "title": "61. Sunset Blvd.",
+  "year": "1950",
+  "rating": "8.4",
+  "movie_page_link": "https://www.imdb.com/title/tt0043014/?ref_=chttp_t_61",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Film-Noir"
+  ],
+  "popularity": "2,686",
+  "directors": [
+    "Billy Wilder"
+  ]
+}{
+  "title": "62. Paths of Glory",
+  "year": "1957",
+  "rating": "8.4",
+  "movie_page_link": "https://www.imdb.com/title/tt0050825/?ref_=chttp_t_62",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BOTI5Nzc0OTMtYzBkMS00NjkxLThmM2UtNjM2ODgxN2M5NjNkXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "War"
+  ],
+  "popularity": "2,893",
+  "directors": [
+    "Stanley Kubrick"
+  ]
+}{
+  "title": "63. Avengers: Infinity War",
+  "year": "2018",
+  "rating": "8.4",
+  "movie_page_link": "https://www.imdb.com/title/tt4154756/?ref_=chttp_t_63",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "popularity": "442",
+  "directors": [
+    "Anthony RussoJoe Russo"
+  ]
+}{
+  "title": "64. The Shining",
+  "year": "1980",
+  "rating": "8.4",
+  "movie_page_link": "https://www.imdb.com/title/tt0081505/?ref_=chttp_t_64",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Horror"
+  ],
+  "popularity": "245",
+  "directors": [
+    "Stanley Kubrick"
+  ]
+}{
+  "title": "65. The Great Dictator",
+  "year": "1940",
+  "rating": "8.4",
+  "movie_page_link": "https://www.imdb.com/title/tt0032553/?ref_=chttp_t_65",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+  "genders": [
+    "Comedy",
+    "Drama",
+    "War"
+  ],
+  "popularity": "4,823",
+  "directors": [
+    "Charles Chaplin"
+  ]
+}{
+  "title": "66. Witness for the Prosecution",
+  "year": "1957",
+  "rating": "8.4",
+  "movie_page_link": "https://www.imdb.com/title/tt0051201/?ref_=chttp_t_66",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNDQwODU5OWYtNDcyNi00MDQ1LThiOGMtZDkwNWJiM2Y3MDg0XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+  "genders": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "popularity": "3,474",
+  "directors": [
+    "Billy Wilder"
+  ]
+}{
+  "title": "67. Spider-Man: Into the Spider-Verse",
+  "year": "2018",
+  "rating": "8.4",
+  "movie_page_link": "https://www.imdb.com/title/tt4633694/?ref_=chttp_t_67",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "popularity": "147",
+  "directors": [
+    "Bob PersichettiPeter RamseyRodney Rothman"
+  ]
+}{
+  "title": "68. Aliens",
+  "year": "1986",
+  "rating": "8.4",
+  "movie_page_link": "https://www.imdb.com/title/tt0090605/?ref_=chttp_t_68",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BOGJkY2EyOWYtYWRmNy00ZTEzLTllMDAtYzYzYjA0ZjFhZWJjXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_QL75_UX140_CR0,2,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "popularity": "232",
+  "directors": [
+    "James Cameron"
+  ]
+}{
+  "title": "69. The Dark Knight Rises",
+  "year": "2012",
+  "rating": "8.4",
+  "movie_page_link": "https://www.imdb.com/title/tt1345836/?ref_=chttp_t_69",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "popularity": "198",
+  "directors": [
+    "Christopher Nolan"
+  ]
+}{
+  "title": "70. American Beauty",
+  "year": "1999",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt0169547/?ref_=chttp_t_70",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Drama"
+  ],
+  "popularity": "243",
+  "directors": [
+    "Sam Mendes"
+  ]
+}{
+  "title": "71. Inglourious Basterds",
+  "year": "2009",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt0361748/?ref_=chttp_t_71",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Adventure",
+    "Drama",
+    "War"
+  ],
+  "popularity": "130",
+  "directors": [
+    "Quentin Tarantino"
+  ]
+}{
+  "title": "72. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+  "year": "1964",
+  "rating": "8.4",
+  "movie_page_link": "https://www.imdb.com/title/tt0057012/?ref_=chttp_t_72",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMWMxYjZkOWUtM2FjMi00MmI1LThkNzQtNTM5Y2E2ZGQ2NGFhXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Comedy",
+    "War"
+  ],
+  "popularity": "1,252",
+  "directors": [
+    "Stanley Kubrick"
+  ]
+}{
+  "title": "73. Oldboy",
+  "year": "2003",
+  "rating": "8.4",
+  "movie_page_link": "https://www.imdb.com/title/tt0364569/?ref_=chttp_t_73",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Drama",
+    "Mystery"
+  ],
+  "popularity": "110",
+  "directors": [
+    "Park Chan-wook"
+  ]
+}{
+  "title": "74. Coco",
+  "year": "2017",
+  "rating": "8.4",
+  "movie_page_link": "https://www.imdb.com/title/tt2380307/?ref_=chttp_t_74",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+  "genders": [
+    "Animation",
+    "Adventure",
+    "Drama"
+  ],
+  "popularity": "851",
+  "directors": [
+    "Lee UnkrichAdrian Molina"
+  ]
+}{
+  "title": "75. Amadeus",
+  "year": "1984",
+  "rating": "8.4",
+  "movie_page_link": "https://www.imdb.com/title/tt0086879/?ref_=chttp_t_75",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_QL75_UX140_CR0,5,140,207_.jpg",
+  "genders": [
+    "Biography",
+    "Drama",
+    "Music"
+  ],
+  "popularity": "269",
+  "directors": [
+    "Milos Forman"
+  ]
+}{
+  "title": "76. Toy Story",
+  "year": "1995",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt0114709/?ref_=chttp_t_76",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "popularity": "640",
+  "directors": [
+    "John Lasseter"
+  ]
+}{
+  "title": "77. Das Boot",
+  "year": "1981",
+  "rating": "8.4",
+  "movie_page_link": "https://www.imdb.com/title/tt0082096/?ref_=chttp_t_77",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNDBjMWUxNTUtNjZiNi00YzJhLTgzNzUtMTRiY2FkZmMzYTNjXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_QL75_UX140_CR0,2,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "War"
+  ],
+  "popularity": "2,198",
+  "directors": [
+    "Wolfgang Petersen"
+  ]
+}{
+  "title": "78. Braveheart",
+  "year": "1995",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt0112573/?ref_=chttp_t_78",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+  "genders": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "popularity": "286",
+  "directors": [
+    "Mel Gibson"
+  ]
+}{
+  "title": "79. Avengers: Endgame",
+  "year": "2019",
+  "rating": "8.4",
+  "movie_page_link": "https://www.imdb.com/title/tt4154796/?ref_=chttp_t_79",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "popularity": "202",
+  "directors": [
+    "Anthony RussoJoe Russo"
+  ]
+}{
+  "title": "80. Joker",
+  "year": "2019",
+  "rating": "8.4",
+  "movie_page_link": "https://www.imdb.com/title/tt7286456/?ref_=chttp_t_80",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "popularity": "155",
+  "directors": [
+    "Todd Phillips"
+  ]
+}{
+  "title": "81. Princess Mononoke",
+  "year": "1997",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt0119698/?ref_=chttp_t_81",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNTZkYmI0MmEtNGFlZC00OWZjLWFjMmItMjk1OWZkOWJiZGVjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "popularity": "1,369",
+  "directors": [
+    "Hayao Miyazaki"
+  ]
+}{
+  "title": "82. Good Will Hunting",
+  "year": "1997",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt0119217/?ref_=chttp_t_82",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Romance"
+  ],
+  "popularity": "233",
+  "directors": [
+    "Gus Van Sant"
+  ]
+}{
+  "title": "83. Once Upon a Time in America",
+  "year": "1984",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt0087843/?ref_=chttp_t_83",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMmQzZjdmZDAtOGE2Yy00MmUwLTljYzgtZTMwMjk3ZDdiOWUyXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Crime",
+    "Drama"
+  ],
+  "popularity": "460",
+  "directors": [
+    "Sergio Leone"
+  ]
+}{
+  "title": "84. Your Name.",
+  "year": "2016",
+  "rating": "8.4",
+  "movie_page_link": "https://www.imdb.com/title/tt5311514/?ref_=chttp_t_84",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Animation",
+    "Drama",
+    "Fantasy"
+  ],
+  "popularity": "886",
+  "directors": [
+    "Makoto Shinkai"
+  ]
+}{
+  "title": "85. 3 Idiots",
+  "year": "2009",
+  "rating": "8.4",
+  "movie_page_link": "https://www.imdb.com/title/tt1187043/?ref_=chttp_t_85",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+  "genders": [
+    "Comedy",
+    "Drama"
+  ],
+  "popularity": "1,221",
+  "directors": [
+    "Rajkumar Hirani"
+  ]
+}{
+  "title": "86. High and Low",
+  "year": "1963",
+  "rating": "8.4",
+  "movie_page_link": "https://www.imdb.com/title/tt0057565/?ref_=chttp_t_86",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BOTI4NTNhZDMtMWNkZi00MTRmLWJmZDQtMmJkMGVmZTEzODlhXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "popularity": null,
+  "directors": [
+    "Akira Kurosawa"
+  ]
+}{
+  "title": "87. Singin' in the Rain",
+  "year": "1952",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt0045152/?ref_=chttp_t_87",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BZDRjNGViMjQtOThlMi00MTA3LThkYzQtNzJkYjBkMGE0YzE1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+  "genders": [
+    "Comedy",
+    "Musical",
+    "Romance"
+  ],
+  "popularity": "1,899",
+  "directors": [
+    "Stanley DonenGene Kelly"
+  ]
+}{
+  "title": "88. Requiem for a Dream",
+  "year": "2000",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt0180093/?ref_=chttp_t_88",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Drama"
+  ],
+  "popularity": "251",
+  "directors": [
+    "Darren Aronofsky"
+  ]
+}{
+  "title": "89. Capernaum",
+  "year": "2018",
+  "rating": "8.4",
+  "movie_page_link": "https://www.imdb.com/title/tt8267604/?ref_=chttp_t_89",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMmExNzU2ZWMtYzUwYi00YmM2LTkxZTQtNmVhNjY0NTMyMWI2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+  "genders": [
+    "Drama"
+  ],
+  "popularity": "1,429",
+  "directors": [
+    "Nadine Labaki"
+  ]
+}{
+  "title": "90. Toy Story 3",
+  "year": "2010",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt0435761/?ref_=chttp_t_90",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+  "genders": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "popularity": "1,348",
+  "directors": [
+    "Lee Unkrich"
+  ]
+}{
+  "title": "91. Come and See",
+  "year": "1985",
+  "rating": "8.4",
+  "movie_page_link": "https://www.imdb.com/title/tt0091251/?ref_=chttp_t_91",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BODM4Njg0NTAtYjI5Ny00ZjAxLTkwNmItZTMxMWU5M2U3M2RjXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,4,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Thriller",
+    "War"
+  ],
+  "popularity": "534",
+  "directors": [
+    "Elem Klimov"
+  ]
+}{
+  "title": "92. Star Wars: Episode VI - Return of the Jedi",
+  "year": "1983",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt0086190/?ref_=chttp_t_92",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UX140_CR0,5,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "popularity": "656",
+  "directors": [
+    "Richard Marquand"
+  ]
+}{
+  "title": "93. Eternal Sunshine of the Spotless Mind",
+  "year": "2004",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt0338013/?ref_=chttp_t_93",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "popularity": "388",
+  "directors": [
+    "Michel Gondry"
+  ]
+}{
+  "title": "94. 2001: A Space Odyssey",
+  "year": "1968",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt0062622/?ref_=chttp_t_94",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "popularity": "276",
+  "directors": [
+    "Stanley Kubrick"
+  ]
+}{
+  "title": "95. The Hunt",
+  "year": "2012",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt2106476/?ref_=chttp_t_95",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMTg2NDg3ODg4NF5BMl5BanBnXkFtZTcwNzk3NTc3Nw@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+  "genders": [
+    "Drama"
+  ],
+  "popularity": "441",
+  "directors": [
+    "Thomas Vinterberg"
+  ]
+}{
+  "title": "96. Reservoir Dogs",
+  "year": "1992",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt0105236/?ref_=chttp_t_96",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Crime",
+    "Thriller"
+  ],
+  "popularity": "420",
+  "directors": [
+    "Quentin Tarantino"
+  ]
+}{
+  "title": "97. Ikiru",
+  "year": "1952",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt0044741/?ref_=chttp_t_97",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BYWM1YmZkNTctZDAwNy00ZTY4LWFjMTktYzU4ZjViMmU1OTJmXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Drama"
+  ],
+  "popularity": "3,426",
+  "directors": [
+    "Akira Kurosawa"
+  ]
+}{
+  "title": "98. Lawrence of Arabia",
+  "year": "1962",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt0056172/?ref_=chttp_t_98",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+  "genders": [
+    "Adventure",
+    "Biography",
+    "Drama"
+  ],
+  "popularity": "1,434",
+  "directors": [
+    "David Lean"
+  ]
+}{
+  "title": "99. Citizen Kane",
+  "year": "1941",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt0033467/?ref_=chttp_t_99",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Mystery"
+  ],
+  "popularity": "1,587",
+  "directors": [
+    "Orson Welles"
+  ]
+}{
+  "title": "100. M",
+  "year": "1931",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt0022100/?ref_=chttp_t_100",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "popularity": "2,998",
+  "directors": [
+    "Fritz Lang"
+  ]
+}{
+  "title": "101. North by Northwest",
+  "year": "1959",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt0053125/?ref_=chttp_t_101",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Adventure",
+    "Mystery"
+  ],
+  "popularity": "2,147",
+  "directors": [
+    "Alfred Hitchcock"
+  ]
+}{
+  "title": "102. The Apartment",
+  "year": "1960",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt0053604/?ref_=chttp_t_102",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNzkwODFjNzItMmMwNi00MTU5LWE2MzktM2M4ZDczZGM1MmViXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_QL75_UX140_CR0,7,140,207_.jpg",
+  "genders": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "popularity": "2,707",
+  "directors": [
+    "Billy Wilder"
+  ]
+}{
+  "title": "103. Vertigo",
+  "year": "1958",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt0052357/?ref_=chttp_t_103",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX140_CR0,5,140,207_.jpg",
+  "genders": [
+    "Mystery",
+    "Romance",
+    "Thriller"
+  ],
+  "popularity": "1,581",
+  "directors": [
+    "Alfred Hitchcock"
+  ]
+}{
+  "title": "104. Double Indemnity",
+  "year": "1944",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt0036775/?ref_=chttp_t_104",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BOTdlNjgyZGUtOTczYi00MDdhLTljZmMtYTEwZmRiOWFkYjRhXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+  "genders": [
+    "Crime",
+    "Drama",
+    "Film-Noir"
+  ],
+  "popularity": "3,558",
+  "directors": [
+    "Billy Wilder"
+  ]
+}{
+  "title": "105. Amélie",
+  "year": "2001",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt0211915/?ref_=chttp_t_105",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Comedy",
+    "Romance"
+  ],
+  "popularity": "945",
+  "directors": [
+    "Jean-Pierre Jeunet"
+  ]
+}{
+  "title": "106. Scarface",
+  "year": "1983",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt0086250/?ref_=chttp_t_106",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Crime",
+    "Drama"
+  ],
+  "popularity": "390",
+  "directors": [
+    "Brian De Palma"
+  ]
+}{
+  "title": "107. Full Metal Jacket",
+  "year": "1987",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt0093058/?ref_=chttp_t_107",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNzkxODk0NjEtYjc4Mi00ZDI0LTgyYjEtYzc1NDkxY2YzYTgyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "War"
+  ],
+  "popularity": "411",
+  "directors": [
+    "Stanley Kubrick"
+  ]
+}{
+  "title": "108. A Clockwork Orange",
+  "year": "1971",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt0066921/?ref_=chttp_t_108",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Crime",
+    "Sci-Fi"
+  ],
+  "popularity": "405",
+  "directors": [
+    "Stanley Kubrick"
+  ]
+}{
+  "title": "109. Incendies",
+  "year": "2010",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt1255953/?ref_=chttp_t_109",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMWE3MGYzZjktY2Q5Mi00Y2NiLWIyYWUtMmIyNzA3YmZlMGFhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Mystery",
+    "War"
+  ],
+  "popularity": "816",
+  "directors": [
+    "Denis Villeneuve"
+  ]
+}{
+  "title": "110. Hamilton",
+  "year": "2020",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt8503618/?ref_=chttp_t_110",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNjViNWRjYWEtZTI0NC00N2E3LTk0NGQtMjY4NTM3OGNkZjY0XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "popularity": "868",
+  "directors": [
+    "Thomas Kail"
+  ]
+}{
+  "title": "111. Heat",
+  "year": "1995",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt0113277/?ref_=chttp_t_111",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BYjZjNTJlZGUtZTE1Ny00ZDc4LTgwYjUtMzk0NDgwYzZjYTk1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "popularity": "86",
+  "directors": [
+    "Michael Mann"
+  ]
+}{
+  "title": "112. Up",
+  "year": "2009",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt1049413/?ref_=chttp_t_112",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BYjBkM2RjMzItM2M3Ni00N2NjLWE3NzMtMGY4MzE4MDAzMTRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "popularity": "899",
+  "directors": [
+    "Pete DocterBob Peterson"
+  ]
+}{
+  "title": "113. To Kill a Mockingbird",
+  "year": "1962",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt0056592/?ref_=chttp_t_113",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+  "genders": [
+    "Crime",
+    "Drama"
+  ],
+  "popularity": "2,043",
+  "directors": [
+    "Robert Mulligan"
+  ]
+}{
+  "title": "114. The Sting",
+  "year": "1973",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt0070735/?ref_=chttp_t_114",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNGU3NjQ4YTMtZGJjOS00YTQ3LThmNmItMTI5MDE2ODI3NzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+  "genders": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "popularity": "2,513",
+  "directors": [
+    "George Roy Hill"
+  ]
+}{
+  "title": "115. A Separation",
+  "year": "2011",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt1832382/?ref_=chttp_t_115",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BN2JmMjViMjMtZTM5Mi00ZGZkLTk5YzctZDg5MjFjZDE4NjNkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Drama"
+  ],
+  "popularity": "3,064",
+  "directors": [
+    "Asghar Farhadi"
+  ]
+}{
+  "title": "116. Indiana Jones and the Last Crusade",
+  "year": "1989",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0097576/?ref_=chttp_t_116",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BY2Q0ODg4ZmItNDZiYi00ZWY5LTg2NzctNmYwZjA5OThmNzE1XkEyXkFqcGdeQXVyMjM4MzQ4OTQ@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Adventure"
+  ],
+  "popularity": "334",
+  "directors": [
+    "Steven Spielberg"
+  ]
+}{
+  "title": "117. Metropolis",
+  "year": "1927",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt0017136/?ref_=chttp_t_117",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Sci-Fi"
+  ],
+  "popularity": "2,036",
+  "directors": [
+    "Fritz Lang"
+  ]
+}{
+  "title": "118. Die Hard",
+  "year": "1988",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0095016/?ref_=chttp_t_118",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Thriller"
+  ],
+  "popularity": "526",
+  "directors": [
+    "John McTiernan"
+  ]
+}{
+  "title": "119. L.A. Confidential",
+  "year": "1997",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0119488/?ref_=chttp_t_119",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMDQ2YzEyZGItYWRhOS00MjBmLTkzMDUtMTdjYzkyMmQxZTJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+  "genders": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "popularity": "839",
+  "directors": [
+    "Curtis Hanson"
+  ]
+}{
+  "title": "120. Bicycle Thieves",
+  "year": "1948",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt0040522/?ref_=chttp_t_120",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNmI1ODdjODctMDlmMC00ZWViLWI5MzYtYzRhNDdjYmM3MzFjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+  "genders": [
+    "Drama"
+  ],
+  "popularity": null,
+  "directors": [
+    "Vittorio De Sica"
+  ]
+}{
+  "title": "121. Snatch",
+  "year": "2000",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0208092/?ref_=chttp_t_121",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+  "genders": [
+    "Comedy",
+    "Crime"
+  ],
+  "popularity": "443",
+  "directors": [
+    "Guy Ritchie"
+  ]
+}{
+  "title": "122. Like Stars on Earth",
+  "year": "2007",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt0986264/?ref_=chttp_t_122",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMDhjZWViN2MtNzgxOS00NmI4LThiZDQtZDI3MzM4MDE4NTc0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Family"
+  ],
+  "popularity": null,
+  "directors": [
+    "Aamir KhanAmole Gupte"
+  ]
+}{
+  "title": "123. Taxi Driver",
+  "year": "1976",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0075314/?ref_=chttp_t_123",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+  "genders": [
+    "Crime",
+    "Drama"
+  ],
+  "popularity": "182",
+  "directors": [
+    "Martin Scorsese"
+  ]
+}{
+  "title": "124. 1917",
+  "year": "2019",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt8579674/?ref_=chttp_t_124",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_QL75_UX140_CR0,7,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Drama",
+    "War"
+  ],
+  "popularity": "512",
+  "directors": [
+    "Sam Mendes"
+  ]
+}{
+  "title": "125. Downfall",
+  "year": "2004",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0363163/?ref_=chttp_t_125",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMTU0NTU5NTAyMl5BMl5BanBnXkFtZTYwNzYwMDg2._V1_QL75_UY207_CR1,0,140,207_.jpg",
+  "genders": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "popularity": "1,173",
+  "directors": [
+    "Oliver Hirschbiegel"
+  ]
+}{
+  "title": "126. Dangal",
+  "year": "2016",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt5074352/?ref_=chttp_t_126",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Biography",
+    "Drama"
+  ],
+  "popularity": "2,783",
+  "directors": [
+    "Nitesh Tiwari"
+  ]
+}{
+  "title": "127. Top Gun: Maverick",
+  "year": "2022",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt1745960/?ref_=chttp_t_127",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Drama"
+  ],
+  "popularity": "89",
+  "directors": [
+    "Joseph Kosinski"
+  ]
+}{
+  "title": "128. For a Few Dollars More",
+  "year": "1965",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0059578/?ref_=chttp_t_128",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMzJlZTNkYjQtMTE1OS00YTJlLTgxNjItYzg4NTllODdkMzBiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Western"
+  ],
+  "popularity": "917",
+  "directors": [
+    "Sergio Leone"
+  ]
+}{
+  "title": "129. Batman Begins",
+  "year": "2005",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0372784/?ref_=chttp_t_129",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "popularity": "239",
+  "directors": [
+    "Christopher Nolan"
+  ]
+}{
+  "title": "130. Some Like It Hot",
+  "year": "1959",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0053291/?ref_=chttp_t_130",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,5,140,207_.jpg",
+  "genders": [
+    "Comedy",
+    "Music",
+    "Romance"
+  ],
+  "popularity": "1,881",
+  "directors": [
+    "Billy Wilder"
+  ]
+}{
+  "title": "131. The Kid",
+  "year": "1921",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0012349/?ref_=chttp_t_131",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BZjhhMThhNDItNTY2MC00MmU1LTliNDEtNDdhZjdlNTY5ZDQ1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+  "genders": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "popularity": null,
+  "directors": [
+    "Charles Chaplin"
+  ]
+}{
+  "title": "132. The Wolf of Wall Street",
+  "year": "2013",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0993846/?ref_=chttp_t_132",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Biography",
+    "Comedy",
+    "Crime"
+  ],
+  "popularity": "84",
+  "directors": [
+    "Martin Scorsese"
+  ]
+}{
+  "title": "133. The Father",
+  "year": "2020",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt10272386/?ref_=chttp_t_133",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BZGJhNWRiOWQtMjI4OS00ZjcxLTgwMTAtMzQ2ODkxY2JkOTVlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Mystery"
+  ],
+  "popularity": "978",
+  "directors": [
+    "Florian Zeller"
+  ]
+}{
+  "title": "134. Green Book",
+  "year": "2018",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt6966692/?ref_=chttp_t_134",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Biography",
+    "Comedy",
+    "Drama"
+  ],
+  "popularity": "326",
+  "directors": [
+    "Peter Farrelly"
+  ]
+}{
+  "title": "135. All About Eve",
+  "year": "1950",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0042192/?ref_=chttp_t_135",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BYmE1M2Y3NTYtYTI0Mi00N2JlLTkzMzItOTY1MTlhNWNkMDgzXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_QL75_UX140_CR0,2,140,207_.jpg",
+  "genders": [
+    "Drama"
+  ],
+  "popularity": "3,814",
+  "directors": [
+    "Joseph L. Mankiewicz"
+  ]
+}{
+  "title": "136. Judgment at Nuremberg",
+  "year": "1961",
+  "rating": "8.3",
+  "movie_page_link": "https://www.imdb.com/title/tt0055031/?ref_=chttp_t_136",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNDc2ODQ5NTE2MV5BMl5BanBnXkFtZTcwODExMjUyNA@@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "War"
+  ],
+  "popularity": "4,213",
+  "directors": [
+    "Stanley Kramer"
+  ]
+}{
+  "title": "137. The Truman Show",
+  "year": "1998",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0120382/?ref_=chttp_t_137",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Comedy",
+    "Drama"
+  ],
+  "popularity": "348",
+  "directors": [
+    "Peter Weir"
+  ]
+}{
+  "title": "138. There Will Be Blood",
+  "year": "2007",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0469494/?ref_=chttp_t_138",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Drama"
+  ],
+  "popularity": "288",
+  "directors": [
+    "Paul Thomas Anderson"
+  ]
+}{
+  "title": "139. Casino",
+  "year": "1995",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0112641/?ref_=chttp_t_139",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Crime",
+    "Drama"
+  ],
+  "popularity": "557",
+  "directors": [
+    "Martin Scorsese"
+  ]
+}{
+  "title": "140. Ran",
+  "year": "1985",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0089881/?ref_=chttp_t_140",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMmU1NGYwZWYtOWExNi00ZTEyLTgwMmUtM2ZlMDVjNWM4YjVlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Drama",
+    "War"
+  ],
+  "popularity": "2,478",
+  "directors": [
+    "Akira Kurosawa"
+  ]
+}{
+  "title": "141. Shutter Island",
+  "year": "2010",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt1130884/?ref_=chttp_t_141",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Mystery",
+    "Thriller"
+  ],
+  "popularity": "230",
+  "directors": [
+    "Martin Scorsese"
+  ]
+}{
+  "title": "142. Pan's Labyrinth",
+  "year": "2006",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0457430/?ref_=chttp_t_142",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BYzFjMThiMGItOWRlMC00MDI4LThmOGUtYTNlZGZiYWI1YjMyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Fantasy",
+    "War"
+  ],
+  "popularity": "873",
+  "directors": [
+    "Guillermo del Toro"
+  ]
+}{
+  "title": "143. The Sixth Sense",
+  "year": "1999",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0167404/?ref_=chttp_t_143",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "popularity": "638",
+  "directors": [
+    "M. Night Shyamalan"
+  ]
+}{
+  "title": "144. Unforgiven",
+  "year": "1992",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0105695/?ref_=chttp_t_144",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BODM3YWY4NmQtN2Y3Ni00OTg0LWFhZGQtZWE3ZWY4MTJlOWU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Western"
+  ],
+  "popularity": "347",
+  "directors": [
+    "Clint Eastwood"
+  ]
+}{
+  "title": "145. Jurassic Park",
+  "year": "1993",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0107290/?ref_=chttp_t_145",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "popularity": "81",
+  "directors": [
+    "Steven Spielberg"
+  ]
+}{
+  "title": "146. A Beautiful Mind",
+  "year": "2001",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0268978/?ref_=chttp_t_146",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Biography",
+    "Drama"
+  ],
+  "popularity": "849",
+  "directors": [
+    "Ron Howard"
+  ]
+}{
+  "title": "147. The Treasure of the Sierra Madre",
+  "year": "1947",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0040897/?ref_=chttp_t_147",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+  "genders": [
+    "Adventure",
+    "Drama",
+    "Western"
+  ],
+  "popularity": null,
+  "directors": [
+    "John Huston"
+  ]
+}{
+  "title": "148. Yojimbo",
+  "year": "1961",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0055630/?ref_=chttp_t_148",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BZThiZjAzZjgtNDU3MC00YThhLThjYWUtZGRkYjc2ZWZlOTVjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "popularity": null,
+  "directors": [
+    "Akira Kurosawa"
+  ]
+}{
+  "title": "149. No Country for Old Men",
+  "year": "2007",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0477348/?ref_=chttp_t_149",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+  "genders": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "popularity": "151",
+  "directors": [
+    "Ethan CoenJoel Coen"
+  ]
+}{
+  "title": "150. Monty Python and the Holy Grail",
+  "year": "1975",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0071853/?ref_=chttp_t_150",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BN2IyNTE4YzUtZWU0Mi00MGIwLTgyMmQtMzQ4YzQxYWNlYWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "popularity": "1,615",
+  "directors": [
+    "Terry GilliamTerry Jones"
+  ]
+}{
+  "title": "151. Kill Bill: Vol. 1",
+  "year": "2003",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0266697/?ref_=chttp_t_151",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "popularity": "476",
+  "directors": [
+    "Quentin Tarantino"
+  ]
+}{
+  "title": "152. The Great Escape",
+  "year": "1963",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0057115/?ref_=chttp_t_152",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNzA2NmYxMWUtNzBlMC00MWM2LTkwNmQtYTFlZjQwODNhOWE0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_QL75_UX140_CR0,6,140,207_.jpg",
+  "genders": [
+    "Adventure",
+    "Drama",
+    "History"
+  ],
+  "popularity": "1,675",
+  "directors": [
+    "John Sturges"
+  ]
+}{
+  "title": "153. The Thing",
+  "year": "1982",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0084787/?ref_=chttp_t_153",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNGViZWZmM2EtNGYzZi00ZDAyLTk3ODMtNzIyZTBjN2Y1NmM1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Horror",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "popularity": "469",
+  "directors": [
+    "John Carpenter"
+  ]
+}{
+  "title": "154. Rashomon",
+  "year": "1950",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0042876/?ref_=chttp_t_154",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMjEzMzA4NDE2OF5BMl5BanBnXkFtZTcwNTc5MDI2NQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "popularity": "4,831",
+  "directors": [
+    "Akira Kurosawa"
+  ]
+}{
+  "title": "155. Finding Nemo",
+  "year": "2003",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0266543/?ref_=chttp_t_155",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BZjMxYzBiNjUtZDliNC00MDAyLTg3N2QtOWNjNmNhZGQzNDg5XkEyXkFqcGdeQXVyNjE2MjQwNjc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+  "genders": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "popularity": "876",
+  "directors": [
+    "Andrew StantonLee Unkrich"
+  ]
+}{
+  "title": "156. The Elephant Man",
+  "year": "1980",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0080678/?ref_=chttp_t_156",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Biography",
+    "Drama"
+  ],
+  "popularity": "1,845",
+  "directors": [
+    "David Lynch"
+  ]
+}{
+  "title": "157. Chinatown",
+  "year": "1974",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0071315/?ref_=chttp_t_157",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMjJkMDZhYzItZTFhMi00ZGI4LThlNTAtZDNlYmEwNjFkNDYzXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "popularity": "944",
+  "directors": [
+    "Roman Polanski"
+  ]
+}{
+  "title": "158. Spider-Man: No Way Home",
+  "year": "2021",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt10872600/?ref_=chttp_t_158",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "popularity": "150",
+  "directors": [
+    "Jon Watts"
+  ]
+}{
+  "title": "159. Gone with the Wind",
+  "year": "1939",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0031381/?ref_=chttp_t_159",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Romance",
+    "War"
+  ],
+  "popularity": "1,099",
+  "directors": [
+    "Victor FlemingGeorge CukorSam Wood"
+  ]
+}{
+  "title": "160. V for Vendetta",
+  "year": "2005",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0434409/?ref_=chttp_t_160",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "popularity": "735",
+  "directors": [
+    "James McTeigue"
+  ]
+}{
+  "title": "161. Dial M for Murder",
+  "year": "1954",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0046912/?ref_=chttp_t_161",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BOWIwODIxYWItZDI4MS00YzhhLWE3MmYtMzlhZDIwOTMzZmE5L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Crime",
+    "Thriller"
+  ],
+  "popularity": "3,272",
+  "directors": [
+    "Alfred Hitchcock"
+  ]
+}{
+  "title": "162. Howl's Moving Castle",
+  "year": "2004",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0347149/?ref_=chttp_t_162",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNmM4YTFmMmItMGE3Yy00MmRkLTlmZGEtMzZlOTQzYjk3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Animation",
+    "Adventure",
+    "Family"
+  ],
+  "popularity": "634",
+  "directors": [
+    "Hayao Miyazaki"
+  ]
+}{
+  "title": "163. Raging Bull",
+  "year": "1980",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0081398/?ref_=chttp_t_163",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+  "genders": [
+    "Biography",
+    "Drama",
+    "Sport"
+  ],
+  "popularity": "1,455",
+  "directors": [
+    "Martin Scorsese"
+  ]
+}{
+  "title": "164. Lock, Stock and Two Smoking Barrels",
+  "year": "1998",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0120735/?ref_=chttp_t_164",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "popularity": "1,014",
+  "directors": [
+    "Guy Ritchie"
+  ]
+}{
+  "title": "165. The Secret in Their Eyes",
+  "year": "2009",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt1305806/?ref_=chttp_t_165",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMTgwNTI3OTczOV5BMl5BanBnXkFtZTcwMTM3MTUyMw@@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "popularity": "1,575",
+  "directors": [
+    "Juan José Campanella"
+  ]
+}{
+  "title": "166. Inside Out",
+  "year": "2015",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt2096673/?ref_=chttp_t_166",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "popularity": "795",
+  "directors": [
+    "Pete DocterRonnie Del Carmen"
+  ]
+}{
+  "title": "167. Prisoners",
+  "year": "2013",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt1392214/?ref_=chttp_t_167",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+  "genders": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "popularity": "186",
+  "directors": [
+    "Denis Villeneuve"
+  ]
+}{
+  "title": "168. Three Billboards Outside Ebbing, Missouri",
+  "year": "2017",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt5027774/?ref_=chttp_t_168",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "popularity": "629",
+  "directors": [
+    "Martin McDonagh"
+  ]
+}{
+  "title": "169. The Bridge on the River Kwai",
+  "year": "1957",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0050212/?ref_=chttp_t_169",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BOGY5NmNlMmQtYzRlYy00NGQ5LWFkYjYtNzExZmQyMTg0ZDA0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_QL75_UX140_CR0,5,140,207_.jpg",
+  "genders": [
+    "Adventure",
+    "Drama",
+    "War"
+  ],
+  "popularity": "2,241",
+  "directors": [
+    "David Lean"
+  ]
+}{
+  "title": "170. Trainspotting",
+  "year": "1996",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0117951/?ref_=chttp_t_170",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Drama"
+  ],
+  "popularity": "729",
+  "directors": [
+    "Danny Boyle"
+  ]
+}{
+  "title": "171. Fargo",
+  "year": "1996",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0116282/?ref_=chttp_t_171",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNDJiZDgyZjctYmRjMS00ZjdkLTkwMTEtNGU1NDg3NDQ0Yzk1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+  "genders": [
+    "Crime",
+    "Thriller"
+  ],
+  "popularity": "282",
+  "directors": [
+    "Joel CoenEthan Coen"
+  ]
+}{
+  "title": "172. Warrior",
+  "year": "2011",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt1291584/?ref_=chttp_t_172",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@._V1_QL75_UX140_CR0,4,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Drama",
+    "Sport"
+  ],
+  "popularity": "1,116",
+  "directors": [
+    "Gavin O'Connor"
+  ]
+}{
+  "title": "173. Gran Torino",
+  "year": "2008",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt1205489/?ref_=chttp_t_173",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+  "genders": [
+    "Drama"
+  ],
+  "popularity": "1,401",
+  "directors": [
+    "Clint Eastwood"
+  ]
+}{
+  "title": "174. Catch Me If You Can",
+  "year": "2002",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0264464/?ref_=chttp_t_174",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "popularity": "453",
+  "directors": [
+    "Steven Spielberg"
+  ]
+}{
+  "title": "175. My Neighbor Totoro",
+  "year": "1988",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0096283/?ref_=chttp_t_175",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BYzJjMTYyMjQtZDI0My00ZjE2LTkyNGYtOTllNGQxNDMyZjE0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+  "genders": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "popularity": "1,913",
+  "directors": [
+    "Hayao Miyazaki"
+  ]
+}{
+  "title": "176. Million Dollar Baby",
+  "year": "2004",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0405159/?ref_=chttp_t_176",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Sport"
+  ],
+  "popularity": "1,786",
+  "directors": [
+    "Clint Eastwood"
+  ]
+}{
+  "title": "177. Klaus",
+  "year": "2019",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt4729430/?ref_=chttp_t_177",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMWYwOThjM2ItZGYxNy00NTQwLWFlZWEtM2MzM2Q5MmY3NDU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "popularity": "4,731",
+  "directors": [
+    "Sergio PablosCarlos Martínez López"
+  ]
+}{
+  "title": "178. Harry Potter and the Deathly Hallows: Part 2",
+  "year": "2011",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt1201607/?ref_=chttp_t_178",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2UtN2ZlYTdkN2IzNDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+  ],
+  "popularity": "355",
+  "directors": [
+    "David Yates"
+  ]
+}{
+  "title": "179. Children of Heaven",
+  "year": "1997",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0118849/?ref_=chttp_t_179",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BZTYwZWQ4ZTQtZWU0MS00N2YwLWEzMDItZWFkZWY0MWVjODVhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,4,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Family",
+    "Sport"
+  ],
+  "popularity": null,
+  "directors": [
+    "Majid Majidi"
+  ]
+}{
+  "title": "180. Blade Runner",
+  "year": "1982",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0083658/?ref_=chttp_t_180",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "popularity": "361",
+  "directors": [
+    "Ridley Scott"
+  ]
+}{
+  "title": "181. 12 Years a Slave",
+  "year": "2013",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt2024544/?ref_=chttp_t_181",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "popularity": "1,194",
+  "directors": [
+    "Steve McQueen"
+  ]
+}{
+  "title": "182. Before Sunrise",
+  "year": "1995",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0112471/?ref_=chttp_t_182",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BZDdiZTAwYzAtMDI3Ni00OTRjLTkzN2UtMGE3MDMyZmU4NTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Romance"
+  ],
+  "popularity": "911",
+  "directors": [
+    "Richard Linklater"
+  ]
+}{
+  "title": "183. The Gold Rush",
+  "year": "1925",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0015864/?ref_=chttp_t_183",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BZjEyOTE4MzMtNmMzMy00Mzc3LWJlOTQtOGJiNDE0ZmJiOTU4L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UY207_CR6,0,140,207_.jpg",
+  "genders": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "popularity": null,
+  "directors": [
+    "Charles Chaplin"
+  ]
+}{
+  "title": "184. The Grand Budapest Hotel",
+  "year": "2014",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt2278388/?ref_=chttp_t_184",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "popularity": "329",
+  "directors": [
+    "Wes Anderson"
+  ]
+}{
+  "title": "185. Ben-Hur",
+  "year": "1959",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0052618/?ref_=chttp_t_185",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNjgxY2JiZDYtZmMwOC00ZmJjLWJmODUtMTNmNWNmYWI5ODkwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+  "genders": [
+    "Adventure",
+    "Drama"
+  ],
+  "popularity": "2,801",
+  "directors": [
+    "William Wyler"
+  ]
+}{
+  "title": "186. Gone Girl",
+  "year": "2014",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt2267998/?ref_=chttp_t_186",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "popularity": "146",
+  "directors": [
+    "David Fincher"
+  ]
+}{
+  "title": "187. Barry Lyndon",
+  "year": "1975",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0072684/?ref_=chttp_t_187",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNmY0MWY2NDctZDdmMi00MjA1LTk0ZTQtZDMyZTQ1NTNlYzVjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+  "genders": [
+    "Adventure",
+    "Drama",
+    "War"
+  ],
+  "popularity": "1,843",
+  "directors": [
+    "Stanley Kubrick"
+  ]
+}{
+  "title": "188. On the Waterfront",
+  "year": "1954",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0047296/?ref_=chttp_t_188",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BY2I0MWFiZDMtNWQyYy00Njk5LTk3MDktZjZjNTNmZmVkYjkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+  "genders": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "popularity": "3,798",
+  "directors": [
+    "Elia Kazan"
+  ]
+}{
+  "title": "189. Hacksaw Ridge",
+  "year": "2016",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt2119532/?ref_=chttp_t_189",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_QL75_UX140_CR0,4,140,207_.jpg",
+  "genders": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "popularity": "172",
+  "directors": [
+    "Mel Gibson"
+  ]
+}{
+  "title": "190. In the Name of the Father",
+  "year": "1993",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0107207/?ref_=chttp_t_190",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMmYyOTgwYWItYmU3Ny00M2E2LTk0NWMtMDVlNmQ0MWZiMTMxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "popularity": "3,008",
+  "directors": [
+    "Jim Sheridan"
+  ]
+}{
+  "title": "191. The General",
+  "year": "1926",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0017925/?ref_=chttp_t_191",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BYmRiMDFlYjYtOTMwYy00OGY2LWE0Y2QtYzQxOGNhZmUwNTIxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "popularity": null,
+  "directors": [
+    "Clyde BruckmanBuster Keaton"
+  ]
+}{
+  "title": "192. The Deer Hunter",
+  "year": "1978",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0077416/?ref_=chttp_t_192",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNDhmNTA0ZDMtYjhkNS00NzEzLWIzYTItOGNkMTVmYjE2YmI3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "War"
+  ],
+  "popularity": "492",
+  "directors": [
+    "Michael Cimino"
+  ]
+}{
+  "title": "193. Memories of Murder",
+  "year": "2003",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0353969/?ref_=chttp_t_193",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BOGViNTg4YTktYTQ2Ni00MTU0LTk2NWUtMTI4OTc1YTM0NzQ2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "popularity": "767",
+  "directors": [
+    "Bong Joon Ho"
+  ]
+}{
+  "title": "194. Wild Strawberries",
+  "year": "1957",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0050986/?ref_=chttp_t_194",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BYWQxYzdhMDMtNjAyZC00NzE0LWFjYmQtYjk0YzMyYjA5NzZkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Romance"
+  ],
+  "popularity": null,
+  "directors": [
+    "Ingmar Bergman"
+  ]
+}{
+  "title": "195. The Wages of Fear",
+  "year": "1953",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0046268/?ref_=chttp_t_195",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BZDdkNzMwZmUtY2Q5MS00ZmM2LWJhYjItYTBjMWY0MGM4MDRjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+  "genders": [
+    "Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "popularity": null,
+  "directors": [
+    "Henri-Georges Clouzot"
+  ]
+}{
+  "title": "196. The Third Man",
+  "year": "1949",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0041959/?ref_=chttp_t_196",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BYjE2OTdhMWUtOGJlMy00ZDViLWIzZjgtYjZkZGZmMDZjYmEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Film-Noir",
+    "Mystery",
+    "Thriller"
+  ],
+  "popularity": "1,211",
+  "directors": [
+    "Carol Reed"
+  ]
+}{
+  "title": "197. Wild Tales",
+  "year": "2014",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt3011894/?ref_=chttp_t_197",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNGQzY2Y0MTgtMDA4OC00NjM3LWI0ZGQtNTJlM2UxZDQxZjI0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+  "genders": [
+    "Comedy",
+    "Drama",
+    "Thriller"
+  ],
+  "popularity": "2,461",
+  "directors": [
+    "Damián Szifron"
+  ]
+}{
+  "title": "198. Sherlock Jr.",
+  "year": "1924",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0015324/?ref_=chttp_t_198",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BZWFhOGU5NDctY2Q3YS00Y2VlLWI1NzEtZmIwY2ZiZjY4OTA2XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_QL75_UX140_CR0,7,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Comedy",
+    "Romance"
+  ],
+  "popularity": null,
+  "directors": [
+    "Buster Keaton"
+  ]
+}{
+  "title": "199. Mad Max: Fury Road",
+  "year": "2015",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt1392190/?ref_=chttp_t_199",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "popularity": "223",
+  "directors": [
+    "George Miller"
+  ]
+}{
+  "title": "200. Dead Poets Society",
+  "year": "1989",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0097165/?ref_=chttp_t_200",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BOGYwYWNjMzgtNGU4ZC00NWQ2LWEwZjUtMzE1Zjc3NjY3YTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+  "genders": [
+    "Comedy",
+    "Drama"
+  ],
+  "popularity": "527",
+  "directors": [
+    "Peter Weir"
+  ]
+}{
+  "title": "201. Mr. Smith Goes to Washington",
+  "year": "1939",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0031679/?ref_=chttp_t_201",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BZTYwYjYxYzgtMDE1Ni00NzU4LWJlMTEtODQ5YmJmMGJhZjI5L2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+  "genders": [
+    "Comedy",
+    "Drama"
+  ],
+  "popularity": null,
+  "directors": [
+    "Frank Capra"
+  ]
+}{
+  "title": "202. Monsters, Inc.",
+  "year": "2001",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0198781/?ref_=chttp_t_202",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "popularity": "903",
+  "directors": [
+    "Pete DocterDavid SilvermanLee Unkrich"
+  ]
+}{
+  "title": "203. How to Train Your Dragon",
+  "year": "2010",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0892769/?ref_=chttp_t_203",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "popularity": "1,118",
+  "directors": [
+    "Dean DeBloisChris Sanders"
+  ]
+}{
+  "title": "204. Jaws",
+  "year": "1975",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0073195/?ref_=chttp_t_204",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UX140_CR0,4,140,207_.jpg",
+  "genders": [
+    "Adventure",
+    "Mystery",
+    "Thriller"
+  ],
+  "popularity": "139",
+  "directors": [
+    "Steven Spielberg"
+  ]
+}{
+  "title": "205. Mary and Max",
+  "year": "2009",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0978762/?ref_=chttp_t_205",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMDgzYjQwMDMtNGUzYi00MTRmLWIyMGMtNjE1OGZkNzY2YWIzL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+  "genders": [
+    "Animation",
+    "Comedy",
+    "Drama"
+  ],
+  "popularity": null,
+  "directors": [
+    "Adam Elliot"
+  ]
+}{
+  "title": "206. The Seventh Seal",
+  "year": "1957",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0050976/?ref_=chttp_t_206",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BOWM3MmE0OGYtOGVlNC00OWE1LTk5ZTAtYmUwMDIwM2ZlNWJiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Fantasy"
+  ],
+  "popularity": "2,763",
+  "directors": [
+    "Ingmar Bergman"
+  ]
+}{
+  "title": "207. Room",
+  "year": "2015",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt3170832/?ref_=chttp_t_207",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Thriller"
+  ],
+  "popularity": "1,275",
+  "directors": [
+    "Lenny Abrahamson"
+  ]
+}{
+  "title": "208. The Big Lebowski",
+  "year": "1998",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0118715/?ref_=chttp_t_208",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMzliZDk0NjctNjhlOC00MWEyLWI3OWYtNjA5ZDYxMTMzNTc5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+  "genders": [
+    "Comedy",
+    "Crime"
+  ],
+  "popularity": "415",
+  "directors": [
+    "Joel CoenEthan Coen"
+  ]
+}{
+  "title": "209. Ford v Ferrari",
+  "year": "2019",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt1950186/?ref_=chttp_t_209",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BM2UwMDVmMDItM2I2Yi00NGZmLTk4ZTUtY2JjNTQ3OGQ5ZjM2XkEyXkFqcGdeQXVyMTA1OTYzOTUx._V1_QL75_UY207_CR0,0,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Biography",
+    "Drama"
+  ],
+  "popularity": "301",
+  "directors": [
+    "James Mangold"
+  ]
+}{
+  "title": "210. Tokyo Story",
+  "year": "1953",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0046438/?ref_=chttp_t_210",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BYWQ4ZTRiODktNjAzZC00Nzg1LTk1YWQtNDFmNDI0NmZiNGIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+  "genders": [
+    "Drama"
+  ],
+  "popularity": null,
+  "directors": [
+    "Yasujirô Ozu"
+  ]
+}{
+  "title": "211. Ratatouille",
+  "year": "2007",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0382932/?ref_=chttp_t_211",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "popularity": "470",
+  "directors": [
+    "Brad BirdJan Pinkava"
+  ]
+}{
+  "title": "212. Rocky",
+  "year": "1976",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0075148/?ref_=chttp_t_212",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNTBkMjg2MjYtYTZjOS00ODQ0LTg0MDEtM2FiNmJmOGU1NGEwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Sport"
+  ],
+  "popularity": "919",
+  "directors": [
+    "John G. Avildsen"
+  ]
+}{
+  "title": "213. Hotel Rwanda",
+  "year": "2004",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0395169/?ref_=chttp_t_213",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BZGJjYmIzZmQtNWE4Yy00ZGVmLWJkZGEtMzUzNmQ4ZWFlMjRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+  "genders": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "popularity": "4,139",
+  "directors": [
+    "Terry George"
+  ]
+}{
+  "title": "214. The Passion of Joan of Arc",
+  "year": "1928",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0019254/?ref_=chttp_t_214",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNjBjNDJiYTUtOWY0OS00OGVmLTg2YzctMTE0NzVhODM1ZWJmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,6,140,207_.jpg",
+  "genders": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "popularity": null,
+  "directors": [
+    "Carl Theodor Dreyer"
+  ]
+}{
+  "title": "215. Logan",
+  "year": "2017",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt3315342/?ref_=chttp_t_215",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "popularity": "813",
+  "directors": [
+    "James Mangold"
+  ]
+}{
+  "title": "216. Platoon",
+  "year": "1986",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0091763/?ref_=chttp_t_216",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMzRjZjdlMjQtODVkYS00N2YzLWJlYWYtMGVlN2E5MWEwMWQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX140_CR0,6,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "War"
+  ],
+  "popularity": "883",
+  "directors": [
+    "Oliver Stone"
+  ]
+}{
+  "title": "217. Spotlight",
+  "year": "2015",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt1895587/?ref_=chttp_t_217",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+  "genders": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "popularity": "874",
+  "directors": [
+    "Tom McCarthy"
+  ]
+}{
+  "title": "218. The Terminator",
+  "year": "1984",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0088247/?ref_=chttp_t_218",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "popularity": "249",
+  "directors": [
+    "James Cameron"
+  ]
+}{
+  "title": "219. Jai Bhim",
+  "year": "2021",
+  "rating": "8.8",
+  "movie_page_link": "https://www.imdb.com/title/tt15097216/?ref_=chttp_t_219",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNzFkM2FhMzQtYjUwZi00N2Y3LWFkZWItMmZmMjQxNGQwZmNhXkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_QL75_UY207_CR13,0,140,207_.jpg",
+  "genders": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "popularity": "1,985",
+  "directors": [
+    "T.J. Gnanavel"
+  ]
+}{
+  "title": "220. Before Sunset",
+  "year": "2004",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0381681/?ref_=chttp_t_220",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3._V1_QL75_UY207_CR0,0,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Romance"
+  ],
+  "popularity": "2,388",
+  "directors": [
+    "Richard Linklater"
+  ]
+}{
+  "title": "221. Rush",
+  "year": "2013",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt1979320/?ref_=chttp_t_221",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BOWEwODJmZDItYTNmZC00OGM4LThlNDktOTQzZjIzMGQxODA4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Biography",
+    "Drama"
+  ],
+  "popularity": "960",
+  "directors": [
+    "Ron Howard"
+  ]
+}{
+  "title": "222. Network",
+  "year": "1976",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0074958/?ref_=chttp_t_222",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNzY0NjU5ODUtOTAzMC00NTU5LWJkZjctYWMyOWY2MTZmOWM1XkEyXkFqcGdeQXVyMTI3ODAyMzE2._V1_QL75_UX140_CR0,3,140,207_.jpg",
+  "genders": [
+    "Drama"
+  ],
+  "popularity": "2,989",
+  "directors": [
+    "Sidney Lumet"
+  ]
+}{
+  "title": "223. Stand by Me",
+  "year": "1986",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0092005/?ref_=chttp_t_223",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BODJmY2Y2OGQtMDg2My00N2Q3LWJmZTUtYTc2ODBjZDVlNDlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX140_CR0,6,140,207_.jpg",
+  "genders": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "popularity": "207",
+  "directors": [
+    "Rob Reiner"
+  ]
+}{
+  "title": "224. The Best Years of Our Lives",
+  "year": "1946",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0036868/?ref_=chttp_t_224",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BY2RmNTRjYzctODI4Ni00MzQyLWEyNTAtNjU0N2JkMTNhNjJkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Romance",
+    "War"
+  ],
+  "popularity": "4,477",
+  "directors": [
+    "William Wyler"
+  ]
+}{
+  "title": "225. La haine",
+  "year": "1995",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0113247/?ref_=chttp_t_225",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BOTQxOGU0OWUtMzExYy00ZjIxLWJmMzAtNTI1Y2YxYTMxN2RkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Crime",
+    "Drama"
+  ],
+  "popularity": "1,533",
+  "directors": [
+    "Mathieu Kassovitz"
+  ]
+}{
+  "title": "226. The Wizard of Oz",
+  "year": "1939",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0032138/?ref_=chttp_t_226",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNjUyMTc4MDExMV5BMl5BanBnXkFtZTgwNDg0NDIwMjE@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+  ],
+  "popularity": "597",
+  "directors": [
+    "Victor FlemingGeorge CukorMervyn LeRoy"
+  ]
+}{
+  "title": "227. Into the Wild",
+  "year": "2007",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0758758/?ref_=chttp_t_227",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNjQ0ODlhMWUtNmUwMS00YjExLWI4MjQtNjVmMmE2Y2E0MGRmXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+  "genders": [
+    "Adventure",
+    "Biography",
+    "Drama"
+  ],
+  "popularity": "756",
+  "directors": [
+    "Sean Penn"
+  ]
+}{
+  "title": "228. The Exorcist",
+  "year": "1973",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0070047/?ref_=chttp_t_228",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BYWFlZGY2NDktY2ZjOS00ZWNkLTg0ZDAtZDY4MTM1ODU4ZjljXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+  "genders": [
+    "Horror"
+  ],
+  "popularity": "175",
+  "directors": [
+    "William Friedkin"
+  ]
+}{
+  "title": "229. Pirates of the Caribbean: The Curse of the Black Pearl",
+  "year": "2003",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0325980/?ref_=chttp_t_229",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "popularity": "214",
+  "directors": [
+    "Gore Verbinski"
+  ]
+}{
+  "title": "230. The Incredibles",
+  "year": "2004",
+  "rating": "8.0",
+  "movie_page_link": "https://www.imdb.com/title/tt0317705/?ref_=chttp_t_230",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "popularity": "792",
+  "directors": [
+    "Brad Bird"
+  ]
+}{
+  "title": "231. To Be or Not to Be",
+  "year": "1942",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0035446/?ref_=chttp_t_231",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMGY3ZDgzY2MtNTllNi00ZWI1LTk1NTUtNWEzN2Q4YTA1ZGZiXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+  "genders": [
+    "Comedy",
+    "Romance",
+    "War"
+  ],
+  "popularity": null,
+  "directors": [
+    "Ernst Lubitsch"
+  ]
+}{
+  "title": "232. The Grapes of Wrath",
+  "year": "1940",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0032551/?ref_=chttp_t_232",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNzJiOGI2MjctYjUyMS00ZjkzLWE2ZmUtOTg4NTZkOTNhZDc1L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Drama"
+  ],
+  "popularity": "1,111",
+  "directors": [
+    "John Ford"
+  ]
+}{
+  "title": "233. Groundhog Day",
+  "year": "1993",
+  "rating": "8.0",
+  "movie_page_link": "https://www.imdb.com/title/tt0107048/?ref_=chttp_t_233",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BZWIxNzM5YzQtY2FmMS00Yjc3LWI1ZjUtNGVjMjMzZTIxZTIxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+  ],
+  "popularity": "1,000",
+  "directors": [
+    "Harold Ramis"
+  ]
+}{
+  "title": "234. Hachi: A Dog's Tale",
+  "year": "2009",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt1028532/?ref_=chttp_t_234",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNzE4NDg5OWMtMzg3NC00ZDRjLTllMDMtZTRjNWZmNjBmMGZlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+  "genders": [
+    "Biography",
+    "Drama",
+    "Family"
+  ],
+  "popularity": "2,521",
+  "directors": [
+    "Lasse Hallström"
+  ]
+}{
+  "title": "235. The Battle of Algiers",
+  "year": "1966",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0058946/?ref_=chttp_t_235",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BN2M4YTA4ZTEtN2EyNy00YTlmLWE4YzYtYjYyYjRkMWM4ZDM0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "War"
+  ],
+  "popularity": null,
+  "directors": [
+    "Gillo Pontecorvo"
+  ]
+}{
+  "title": "236. My Father and My Son",
+  "year": "2005",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0476735/?ref_=chttp_t_236",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNzEzMWYyYjEtNmVjZS00YTAyLWIyOTgtMzEzNzQxMTQzZTgwXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Family"
+  ],
+  "popularity": null,
+  "directors": [
+    "Çagan Irmak"
+  ]
+}{
+  "title": "237. The Handmaiden",
+  "year": "2016",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt4016934/?ref_=chttp_t_237",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNDJhYTk2MTctZmVmOS00OTViLTgxNjQtMzQxOTRiMDdmNGRjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "popularity": "331",
+  "directors": [
+    "Park Chan-wook"
+  ]
+}{
+  "title": "238. Amores Perros",
+  "year": "2000",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0245712/?ref_=chttp_t_238",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BZjUxNmEwOGItMTBmYi00MWQ1LWExY2MtNDUxMjI0OWM4M2NiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Thriller"
+  ],
+  "popularity": "2,381",
+  "directors": [
+    "Alejandro G. Iñárritu"
+  ]
+}{
+  "title": "239. Rebecca",
+  "year": "1940",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0032976/?ref_=chttp_t_239",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BYTcxYWExOTMtMWFmYy00ZjgzLWI0YjktNWEzYzJkZTg0NDdmL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Film-Noir",
+    "Mystery"
+  ],
+  "popularity": "3,799",
+  "directors": [
+    "Alfred Hitchcock"
+  ]
+}{
+  "title": "240. Cool Hand Luke",
+  "year": "1967",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0061512/?ref_=chttp_t_240",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNjcwNTQ3Y2EtMjdmZi00ODBhLWFhNzQtOTc3MWU5NTZlMDViXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,4,140,207_.jpg",
+  "genders": [
+    "Crime",
+    "Drama"
+  ],
+  "popularity": "2,224",
+  "directors": [
+    "Stuart Rosenberg"
+  ]
+}{
+  "title": "241. The Sound of Music",
+  "year": "1965",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0059742/?ref_=chttp_t_241",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BNWFhNjg3YjctMjg2Ny00YjBkLTg5M2EtMTk2MjA1NDY3NzQ2XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Biography",
+    "Drama",
+    "Family"
+  ],
+  "popularity": "1,064",
+  "directors": [
+    "Robert Wise"
+  ]
+}{
+  "title": "242. Pather Panchali",
+  "year": "1955",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt0048473/?ref_=chttp_t_242",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMmFkNDY5OTktNzY3Yy00OTFlLThhNjktOTRhMmZjZmIxYjAxXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Drama"
+  ],
+  "popularity": null,
+  "directors": [
+    "Satyajit Ray"
+  ]
+}{
+  "title": "243. It Happened One Night",
+  "year": "1934",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0025316/?ref_=chttp_t_243",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+  "genders": [
+    "Comedy",
+    "Romance"
+  ],
+  "popularity": null,
+  "directors": [
+    "Frank Capra"
+  ]
+}{
+  "title": "244. The Iron Giant",
+  "year": "1999",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0129167/?ref_=chttp_t_244",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BYzBjZTNkMzQtZmNkOC00Yzk0LTljMjktZjk3YWVlZjY3NTk2XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "popularity": "2,495",
+  "directors": [
+    "Brad Bird"
+  ]
+}{
+  "title": "245. The Help",
+  "year": "2011",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt1454029/?ref_=chttp_t_245",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+  "genders": [
+    "Drama"
+  ],
+  "popularity": "378",
+  "directors": [
+    "Tate Taylor"
+  ]
+}{
+  "title": "246. The 400 Blows",
+  "year": "1959",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0053198/?ref_=chttp_t_246",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BYjZmOWI1NTEtZjczYi00NTZhLTkyZTQtZjAyMWRkNzZkYTE5XkEyXkFqcGdeQXVyMTY3NTY5OTcx._V1_QL75_UY207_CR6,0,140,207_.jpg",
+  "genders": [
+    "Crime",
+    "Drama"
+  ],
+  "popularity": null,
+  "directors": [
+    "François Truffaut"
+  ]
+}{
+  "title": "247. Persona",
+  "year": "1966",
+  "rating": "8.1",
+  "movie_page_link": "https://www.imdb.com/title/tt0060827/?ref_=chttp_t_247",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BYmFlOTcxMWUtZTMzMi00NWIyLTkwOTEtNjIxNmViNzc2Yzc1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+  "genders": [
+    "Drama",
+    "Thriller"
+  ],
+  "popularity": "3,127",
+  "directors": [
+    "Ingmar Bergman"
+  ]
+}{
+  "title": "248. Life of Brian",
+  "year": "1979",
+  "rating": "8.0",
+  "movie_page_link": "https://www.imdb.com/title/tt0079470/?ref_=chttp_t_248",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BMDA1ZWI4ZDItOTRlYi00OTUxLWFlNWQtMzM5NDI0YjA4ZGI2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+  "genders": [
+    "Comedy"
+  ],
+  "popularity": "2,035",
+  "directors": [
+    "Terry Jones"
+  ]
+}{
+  "title": "249. Aladdin",
+  "year": "1992",
+  "rating": "8.0",
+  "movie_page_link": "https://www.imdb.com/title/tt0103639/?ref_=chttp_t_249",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BZTg5ZTVmM2EtZjdhZC00MzBjLWEwZTYtNWIwZDczYzZkMzA4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX140_CR0,5,140,207_.jpg",
+  "genders": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "popularity": "1,177",
+  "directors": [
+    "Ron ClementsJohn Musker"
+  ]
+}{
+  "title": "250. Drishyam",
+  "year": "2015",
+  "rating": "8.2",
+  "movie_page_link": "https://www.imdb.com/title/tt4430212/?ref_=chttp_t_250",
+  "poster_image_link": "https://m.media-amazon.com/images/M/MV5BYmJhZmJlYTItZmZlNy00MGY0LTg0ZGMtNWFkYWU5NTA1YTNhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+  "genders": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "popularity": "4,412",
+  "directors": [
+    "Nishikant Kamat"
+  ]
+}
